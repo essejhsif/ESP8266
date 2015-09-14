@@ -1,6 +1,6 @@
 /**
  * @example ESP8266_example1.inp
- * @brief Exmple ESP8266 w/ WeeESP8266 library.
+ * @brief Basic example to test ESP8266 w/ WeeESP8266 library.
  * @author Jesse Fish <jessefish@gmail.com> 
  * @date 2015.09.13
  */
